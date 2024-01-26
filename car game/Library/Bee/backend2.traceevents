@@ -1,0 +1,303 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1693057365091188, "dur":27893, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119087, "dur":69, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119177, "dur":314, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119609, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119779, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/level4.resS" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119978, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1693057365120475, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1693057365120651, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365120858, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365121066, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365121204, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365121359, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365121486, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365121854, "dur":114, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365122050, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365122219, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365122348, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365122570, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693057365123210, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1693057365119510, "dur":3948, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365123459, "dur":160140, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365283600, "dur":206, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365283907, "dur":1232, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1693057365120487, "dur":3007, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365123496, "dur":757, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365124253, "dur":2820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365127086, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693057365127078, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693057365127197, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365153066, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693057365153956, "dur":478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365154468, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365154549, "dur":590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365155180, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365155400, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365156372, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365156456, "dur":487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365157060, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365157912, "dur":616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693057365159516, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365158740, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1693057365159673, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693057365169063, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693057365160804, "dur":8408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1693057365169279, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level4" }}
+,{ "pid":12345, "tid":1, "ts":1693057365171262, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1693057365172101, "dur":2589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1693057365174757, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1693057365175477, "dur":108107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693057365120290, "dur":3173, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693057365123465, "dur":3570, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693057365128166, "dur":477, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1693057365128647, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693057365128725, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1693057365129074, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365129130, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365129252, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365129404, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365129618, "dur":475, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365130094, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365130163, "dur":240, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Furkan\\car game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693057365128646, "dur":1914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693057365130813, "dur":62, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693057365131336, "dur":149277, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693057365283054, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693057365283053, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693057365283128, "dur":422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1693057365120548, "dur":2952, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365123506, "dur":684, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365124190, "dur":2889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365127081, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1693057365127197, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365139416, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1693057365140510, "dur":2540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365143155, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365143989, "dur":431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365144490, "dur":1784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365146420, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365148392, "dur":481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365148913, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365148989, "dur":409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365149431, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365149509, "dur":516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365150098, "dur":410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365150570, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365151329, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365152172, "dur":623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365152863, "dur":495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365153464, "dur":559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365154058, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365154209, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365155219, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365155403, "dur":539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365155990, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365156335, "dur":595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365157058, "dur":780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365157920, "dur":509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1693057365158473, "dur":7272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":3, "ts":1693057365168904, "dur":125, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365165837, "dur":3204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1693057365169170, "dur":313, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365172670, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1693057365169581, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level4.resS" }}
+,{ "pid":12345, "tid":3, "ts":1693057365172843, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1693057365174649, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1693057365177544, "dur":106038, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365120332, "dur":3149, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365123483, "dur":688, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365124171, "dur":2890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365127066, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1693057365127194, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365153358, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1693057365154354, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693057365155446, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365155509, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693057365156825, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1693057365158232, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1693057365165035, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1693057365159301, "dur":5878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1693057365165268, "dur":1213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1693057365166566, "dur":2044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1693057365168679, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1693057365171433, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1693057365172308, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1693057365174547, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1693057365175389, "dur":108208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365120715, "dur":2796, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365123512, "dur":787, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365124299, "dur":2768, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365127070, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1693057365139148, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1693057365140562, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365143674, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365144605, "dur":562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365145674, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365145230, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365145867, "dur":500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365146424, "dur":486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365146996, "dur":592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365147647, "dur":454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365148175, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365148785, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365149354, "dur":410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365149858, "dur":442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365150342, "dur":165, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365150518, "dur":582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365151177, "dur":446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365151727, "dur":391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365152211, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365152276, "dur":525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365152878, "dur":611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365153526, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1693057365153673, "dur":579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365154352, "dur":648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365155136, "dur":698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365155902, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365156790, "dur":1252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365158113, "dur":408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365158111, "dur":411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365158732, "dur":29100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1693057365187885, "dur":95705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365120319, "dur":3149, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365123477, "dur":674, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365124151, "dur":534, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365124685, "dur":2364, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365127076, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1693057365127058, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1693057365128295, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1693057365130276, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1693057365130367, "dur":617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131024, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131023, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131234, "dur":514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131824, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131822, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365131952, "dur":627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365132659, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1693057365133344, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365132882, "dur":551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1693057365133482, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365133480, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365133643, "dur":521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1693057365134192, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1693057365134386, "dur":426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1693057365134841, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365134839, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365135055, "dur":5593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365140685, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365142659, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365140985, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365142825, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365142821, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365142973, "dur":992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365144029, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365144637, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365145554, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365146552, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365147180, "dur":896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365148144, "dur":549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365148793, "dur":470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365149329, "dur":369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365149897, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365150342, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365150410, "dur":550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365151038, "dur":580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365151714, "dur":499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365152339, "dur":459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365152882, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365153537, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365153659, "dur":446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365154205, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365155124, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365155907, "dur":387, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365156337, "dur":603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365156986, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365157792, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365157062, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365157969, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1693057365165035, "dur":198, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1693057365158547, "dur":6751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1693057365165399, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1693057365168179, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1693057365172227, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1693057365173909, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1693057365174876, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1693057365176364, "dur":107225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365120361, "dur":3125, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365123487, "dur":676, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365124209, "dur":2849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365127077, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1693057365127059, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1693057365128023, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1693057365129801, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365129799, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365130039, "dur":532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365130606, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1693057365130772, "dur":484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1693057365131299, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693057365131410, "dur":466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693057365131916, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693057365132028, "dur":605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693057365132674, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365132672, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365132846, "dur":532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1693057365133412, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693057365133517, "dur":415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1693057365133984, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693057365134094, "dur":643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1693057365134775, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365134773, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365135059, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365136256, "dur":492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1693057365136255, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!.exe" }}
+,{ "pid":12345, "tid":7, "ts":1693057365136832, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!.exe" }}
+,{ "pid":12345, "tid":7, "ts":1693057365137624, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/!BEST RACING!/!BEST RACING!_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1693057365137950, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1693057365140428, "dur":3154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365143660, "dur":611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365144340, "dur":440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365144839, "dur":1128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365146026, "dur":455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365146550, "dur":671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365147276, "dur":657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365148005, "dur":456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365148502, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365148598, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365149842, "dur":138, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365149990, "dur":753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365150781, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365150911, "dur":480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365151454, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365152654, "dur":692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365153413, "dur":618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365154067, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365154227, "dur":678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365155229, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365155477, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365156513, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365156621, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365157259, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365157339, "dur":517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365157949, "dur":608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1693057365158737, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1693057365187269, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1693057365161802, "dur":25622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1693057365187500, "dur":96098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365120393, "dur":3097, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365123492, "dur":672, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365124165, "dur":2874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365127048, "dur":544, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365153732, "dur":408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1693057365154215, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365155092, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365155834, "dur":967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365156887, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365157450, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1693057365157540, "dur":338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365157952, "dur":421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1693057365158411, "dur":24490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/!BEST RACING!/!BEST RACING!_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1693057365182950, "dur":100635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693057365286873, "dur":801, "ph":"X", "name": "ProfilerWriteOutput" }
+,
